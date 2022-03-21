@@ -1,13 +1,34 @@
-<h1 align="center">Hi 👋, I'm Shiva Kashyap</h1>
+# Hi I am Shiva Kashyap <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
+<p align="center">
+<h3 align="left">Connect with me:</h3><a href="https://twitter.com/ShivaKa51536063" target="blank"><img  align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="@ShivaKa51536063" height="20" width="20" /></a>&nbsp;
+<a href="https://www.linkedin.com/in/shiva-kashyap-28b029212/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="shivakashyap" height="20" width="20" /></a>&nbsp;
+<!-- <a href="https://hashnode.com/@apoorvtyagi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hashnode.svg" alt="apoorvtyagi" height="20" width="20" /></a> -->
+<!-- <a href="https://www.buymeacoffee.com/apoorvtyagi"><img align="center" alt="Buy me a Coffee" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/buymeacoffee.svg" /></a> -->
+</p>
+
+![](https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966)
+
+### 🤵 About Me:
+- 🏦 I'm currently looking for a job.
+      <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+- 🤔 I use daily ```.js```,``` .node```, ```.nosql```
+- 🌱 I’m currently learning full stack web devlopment
+- 💬 Talk to me about coding.
+- 😄 Pronouns: He/Him
+<!-- - 📝 I regulary write articles on [hashnode](https://apoorvtyagi.tech/) (previously on [blogger](https://apoorvtyagi133.blogspot.com/)) -->
+<!-- - 👯 We can connect on [Chess.com](https://www.chess.com/member/sweetxcyanide)♟ to play some games -->
+- ⚡ Fun fact: Coding is easy.
+
+<!-- <h1 align="center">Hi 👋, I'm Shiva Kashyap</h1>
 <h3 align="center">A passionate Full-stack developer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shiva-fighter&label=Profile%20views&color=0e75b6&style=flat" alt="shiva-fighter" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shiva-fighter" alt="shiva-fighter" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p> -->
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 

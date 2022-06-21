@@ -11,7 +11,7 @@
 ### 🤵 About Me:
 - 🏦 I'm currently looking for a job.
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- 🤔 I use daily ```.js```,``` .node```, ```.nosql```
+- 🤔 I use daily ```React```, ```.js```,``` .node```
 - 🌱 I’m currently learning full stack web devlopment
 - 💬 Talk to me about coding.
 - 😄 Pronouns: He/Him
